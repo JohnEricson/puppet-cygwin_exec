@@ -2,7 +2,7 @@
   "author": "John Ericson",
   "dependencies": [],
   "license": "LGPL-2.0",
-  "name": "puppet-cygwin_exec",
+  "name": "johnericson-cygwin_exec",
   "operatingsystem_support": [
     {
       "operatingsystem": "Windows",
@@ -20,7 +20,7 @@
   ],
   "project_page": "https://github.com/JohnEricson/puppet-cygwin_exec",
   "requirements": [],
-  "source": "",
+  "source": "https://github.com/JohnEricson/puppet-cygwin_exec.git",
   "summary": "Puppet module for extending the standard exec resource with a new cygwin provider. Used for easily porting Puppet modules from Unix/Linux to Windows.",
   "tags": [],
   "version": "0.1.0"
